@@ -9,7 +9,7 @@
 
 ## StartUp
 
-* \[看法\] 碎片化创业
+* [\[看法\] 碎片化创业](startup/.md)
 * [\[原创\] 技术vs运营，膜拜大战ofo](startup/vsofo.md)
 
 ## Marketing

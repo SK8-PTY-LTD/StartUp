@@ -7,14 +7,10 @@
 
 ## Design
 
-* [Design](design/README.md)
-* [Development](development/README.md)
-* [Innovation](innovation/README.md)
-* [Management](management/README.md)
-* [Random](random/README.md)
-* [Notes](notes/README.md)
-
 ## StartUp
+
+* \[看法\] 碎片化创业
+* [\[原创\] 技术vs运营，膜拜大战ofo](startup/vsofo.md)
 
 ## Marketing
 
@@ -25,6 +21,8 @@
 ## Innovation
 
 ## Management
+
+* \[干货\] 创业公司的人员配比
 
 ## Random
 

@@ -16,7 +16,7 @@
 
 ## Marketing
 
-* [\[干货\] 听说你想开个公众号？](marketing/.md)
+* [\[干货\] 听说你想开个公众号？](marketing/[干货] 听说你想开个公众号？.md)
 
 ## Development
 

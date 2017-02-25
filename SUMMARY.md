@@ -7,7 +7,7 @@
 
 ## StartUp
 
-* [\[原创\] 技术vs市场，摩拜大战ofo](startup/[原创] 技术vs运营，摩拜大战ofo.md)
+* [\[原创\] 技术vs市场，摩拜大战ofo](startup/[原创] 技术vs市场，摩拜大战ofo.md)
 * [\[看法\] 碎片化创业](startup/[看法] 碎片化创业.md)
 * [\[创业\] 折腾vs瞎折腾](startup/[创业] 折腾vs瞎折腾.md)
 * [\[工具\] 听说你想开始写作？](startup/[工具] 听说你想开始写作？.md)

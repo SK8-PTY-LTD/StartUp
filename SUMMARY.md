@@ -1,5 +1,7 @@
 # Summary
 
+## Introduction
+
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 
@@ -11,6 +13,10 @@
 * [Management](management/README.md)
 * [Random](random/README.md)
 * [Notes](notes/README.md)
+
+## Marketing
+
+* [\[干货\] 听说你想开个公众号？](marketing/.md)
 
 ## Development
 

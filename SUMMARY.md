@@ -7,4 +7,5 @@
 * [Innovation](innovation/README.md)
 * [Management](management/README.md)
 * [Random](random/README.md)
+* [Notes](notes/README.md)
 

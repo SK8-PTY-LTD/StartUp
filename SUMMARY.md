@@ -14,6 +14,8 @@
 
 ## Design
 
+* [ofo logo分析](design/ofo logo分析md)
+
 ## Marketing
 
 * [\[干货\] 听说你想开个公众号？](marketing/[干货] 听说你想开个公众号？.md)

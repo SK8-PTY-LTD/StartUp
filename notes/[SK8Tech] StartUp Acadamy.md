@@ -1,3 +1,5 @@
+> Stay hungry, Stay foolish - Steve Jobs
+
 # Academy
   ## Web Development
     1. Website

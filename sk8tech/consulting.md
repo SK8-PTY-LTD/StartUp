@@ -12,8 +12,7 @@ What creates a successful StartUp?
 
 1. Business Consulting
 1. IT Consulting
-
-1. Enterprise System 
+1. Information System 
 
 ---
 

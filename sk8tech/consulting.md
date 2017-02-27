@@ -1,3 +1,5 @@
+What makes a company great?
+
 Since 2014, [SK8Tech](https://sk8.tech) had been heavily involved in innovation with other StartUps. 
 
 What creates a successful StartUp?

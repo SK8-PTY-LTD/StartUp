@@ -6,7 +6,6 @@ What creates a successful StartUp?
 
 1. Idea Research
 1. Business Registration (ABN)
-1. Book keeping
 1. Book Keeping
 1. Research
 1. Recruiting

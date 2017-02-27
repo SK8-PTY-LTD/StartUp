@@ -1,5 +1,7 @@
 Building a new brand? We offer a full branding package, including logo, website, name card, email signature, letter head, and anything else you’ll need to build your brand.
 
+# Skills
+
 ### Graphics
 1. Logo
 1. Name Card

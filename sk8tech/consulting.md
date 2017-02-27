@@ -2,6 +2,8 @@ Since 2014, [SK8Tech](https://sk8.tech) had been heavily involved in innovation 
 
 What creates a successful StartUp?
 
+---
+
 # Skills
 
 1. Idea Research

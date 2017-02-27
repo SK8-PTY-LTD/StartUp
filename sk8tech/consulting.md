@@ -4,20 +4,24 @@ What creates a successful StartUp?
 
 # Skills
 
-1. Business Registration
+1. Idea Research
+1. Business Registration (ABN)
 1. Book keeping
-1. StartUp Management
+1. Book Keeping
 1. Research
 1. Recruiting
-1. Content Writing
 
-1. StartUp Consulting
 1. Business Consulting
-1. IT Consultation
-1. System Integration
+1. IT Consulting
+
+1. Enterprise System 
 
 ---
 
 # Services
+## StartUp Consulting
+## StartUp Acadamy
+## StartUp Incubaiton
 
+1. Bookkeeping
 1. StartUp BootCamp

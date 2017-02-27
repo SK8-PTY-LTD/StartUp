@@ -6,7 +6,8 @@
     1. IT Consultation
     1. System Integration
 ---
-## [Design] Graphics
+## [Design](design.md) 
+    ## Graphics
     1. Logo
     1. Name Card
     1. Letter head

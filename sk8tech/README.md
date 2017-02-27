@@ -1,4 +1,9 @@
-为了做微信公众号以及官网，本文详细罗列了[SK8科技](https://sk8.tech)可以提供的服务。
+本文是sk8tech文字内容的总集，文字内容供微信公众号以及官网使用。
+
+# [Skills](skills.md)
+# [Services](services.md)
+
+本文详细罗列了[SK8科技](https://sk8.tech)可以提供的服务。
 
 # [Consulting](consulting.md)
 1. StartUp Consulting

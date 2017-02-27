@@ -21,7 +21,7 @@ What creates a successful StartUp?
     1. [Management](## StartUp Management)
 1. Business
     1. [Management](## Business Management)
-    1. Information System
+    1. [Information System](## Business Information System)
     
 ## StartUp Consulting
 
@@ -29,4 +29,4 @@ What creates a successful StartUp?
 
 ## Business Consulting
 
-## Infomation System
+## Business Infomation System

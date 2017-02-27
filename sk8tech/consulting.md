@@ -20,4 +20,4 @@ What creates a successful StartUp?
 
 # Services
 
-1. StartUp Bootstrap
+1. StartUp BootCamp

@@ -29,8 +29,21 @@ What creates a successful StartUp?
     
 ## StartUp Consulting
 
+Ready to StartUp? Let's get your company registered, and your idea validated. As a StartUp Partner, experts at SK8Tech can help you get your company registered and ready for market. We can also help you to get your idea validated, so you know exactly what you're going for. 
+
 ## StartUp Management
+
+Focus on your core services, and leave the tedious management to us. We can help you do book-keeping and financials. 
 
 ## Business Consulting
 
+What makes a company great?  
+
 ## Business Infomation System
+
+Technology promotes efficiency. As tech experts, we can help you run your business more efficiently by integrating information system into your daily operations. 
+
+
+
+
+

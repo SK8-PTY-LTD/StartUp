@@ -1,3 +1,7 @@
+Since 2014, [SK8Tech](https://sk8.tech) had been heavily involved in innovation with other StartUps. 
+
+# Skills
+
 1. StartUp Consulting
 1. Business Consulting
 1. IT Consultation

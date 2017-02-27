@@ -1,10 +1,10 @@
 为了做微信公众号以及官网，本文详细罗列了[SK8科技](https://sk8.tech)可以提供的服务。
 
 # [Consulting](consulting.md)
-    1. StartUp Consulting
-    1. Business Consulting
-    1. IT Consultation
-    1. System Integration
+1. StartUp Consulting
+1. Business Consulting
+1. IT Consultation
+1. System Integration
 ---
 # [Design](design.md) 
 ### Graphics

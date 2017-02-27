@@ -27,5 +27,6 @@ What creates a successful StartUp?
 
 ## StartUp Management
 
-1. Bookkeeping
-1. StartUp BootCamp
+## Business Consulting
+
+## Infomation System

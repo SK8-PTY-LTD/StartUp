@@ -15,7 +15,7 @@
 
 ## Design
 
-* [ofo logo分析](design/ofo logo分析.md)
+* [ofo logo分析](design/ofo-logo分析.md)
 
 ## Marketing
 

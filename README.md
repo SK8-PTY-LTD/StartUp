@@ -41,7 +41,7 @@ This file file serves as your book's preface, a great place to describe your boo
 ## 101个吸引人的微信标题模板
 
     1. 10个为____节省金钱/时间的技巧
-    2. 获得____最优惠价的秘密
+    1. 获得____最优惠价的秘密
     3. 如何在网上找到最好的____生意
     4. ____的最好小工具
     5. ____值那么多钱吗?

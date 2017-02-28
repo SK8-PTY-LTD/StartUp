@@ -7,11 +7,11 @@
 
 ## StartUp
 
-* [\[看法\]碎片化创业](startup/[看法]碎片化创业.md)
-* [\[创业\]折腾vs瞎折腾](startup/[创业]折腾vs瞎折腾.md)
-* [\[工具\]听说你想开始写作？](startup/[工具]听说你想开始写作？.md)
-* [\[运营\]ofo到底怕不怕偷车？](startup/ofo到底怕不怕偷车？.md)
-* [\[运营\]ofo到底怕不怕坏车？](startup/ofo到底怕不怕坏车？.md)
+* [看法 | 碎片化创业](startup/[看法]碎片化创业.md)
+* [创业 | 折腾vs瞎折腾](startup/[创业]折腾vs瞎折腾.md)
+* [工具 | 听说你想开始写作？](startup/[工具]听说你想开始写作？.md)
+* [运营 | ofo到底怕不怕偷车？](startup/ofo到底怕不怕偷车？.md)
+* [运营 | ofo到底怕不怕坏车？](startup/ofo到底怕不怕坏车？.md)
 
 ## Design
 
@@ -19,13 +19,13 @@
 
 ## Marketing
 
-* [\[干货\]听说你想开个公众号？](marketing/[干货]听说你想开个公众号？.md)
+* [干货 | 听说你想开个公众号？](marketing/[干货]听说你想开个公众号？.md)
 
 ## Development
 
 ## Innovation
 
-* [\[原创\]技术vs市场，摩拜大战ofo](innovation/[原创]技术vs市场，摩拜大战ofo.md)
+* [原创 | 技术vs市场，摩拜大战ofo](innovation/[原创]技术vs市场，摩拜大战ofo.md)
 
 ## Management
 

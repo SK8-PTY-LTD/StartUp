@@ -32,10 +32,10 @@
 
 #Services
 
-1. [Brand Website](## Brand Website)
-1. [App Development](## App Development)
-1. [WeChat](## Wechat)
-1. [Testing](## Testing)
+1. [Brand Website](##brand-website)
+1. [App Development](##app-development)
+1. [WeChat](##wechat)
+1. [Testing](##testing)
 
 ## Brand Website
 

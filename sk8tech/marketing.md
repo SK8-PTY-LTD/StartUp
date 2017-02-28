@@ -20,8 +20,7 @@
 # Services
 1. [SEO](##seo)
 1. [SEM](##sem)
-1. [WeChat](##wechat)
-1. [Testing](##testing)
+1. [Social Media Marketing](##social-media-marketing)
 
 ## SEO 
 1. Techincal Optimisation

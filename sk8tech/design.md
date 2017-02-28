@@ -26,12 +26,12 @@ Building a new brand? We offer a full branding package, including logo, website,
 
 # Services
 
-1. [Branding](## Branding)
+1. [Branding](##Branding)
     1. Logo Design
     1. Visual Identity
     1. Digital Identity
 
-1. [Graphics](## Graphics)
+1. [Graphics](##Graphics)
     1. Event Poster
     1. Pull up banner
     1. Flyer
@@ -39,13 +39,13 @@ Building a new brand? We offer a full branding package, including logo, website,
     1. Social Media Banner
     1. QR Code
 
-1. [Animations](## Animations)
+1. [Animations](##Animations)
     1. Animated Logo
     1. Animated QR Code
     1. Gif
     1. Emoji
 
-1. [UI&UX](## UI&UX)
+1. [UI&UX](##UI&UX)
     1. Prototyping
     1. Web Design
     1. App Design

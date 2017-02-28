@@ -11,7 +11,7 @@
 * [[创业] 折腾vs瞎折腾](startup/[创业] 折腾vs瞎折腾.md)
 * [[工具] 听说你想开始写作？](startup/[工具] 听说你想开始写作？.md)
 * [[运营] ofo到底怕不怕偷车？](startup/ofo到底怕不怕偷车？.md)
-* [[运营] ofo 到底怕不怕坏车？](startup/ofo 到底怕不怕坏车？.md)
+* [[运营] ofo到底怕不怕坏车？](startup/ofo 到底怕不怕坏车？.md)
 
 ## Design
 

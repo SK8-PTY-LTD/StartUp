@@ -21,11 +21,11 @@ What creates a successful StartUp?
 # Services
 
 1. StartUp
-    1. [Consulting](##startup-consulting)
-    1. [Management](##startup-management)
+    1. [Consulting](#startup-consulting)
+    1. [Management](#startup-management)
 1. Business
-    1. [Management](##business-management)
-    1. [Information System](##business-information-system)
+    1. [Management](#business-management)
+    1. [Information System](#business-information-system)
     
 ## StartUp Consulting
 

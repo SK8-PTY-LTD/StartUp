@@ -5,8 +5,8 @@
     "author": "Jacktator",
     "plugins": ["styles-less"],
     "styles": {
-        "pdf": "./styles/pdf.less"
-        "website": "./styles/website.less"
+        "pdf": "./styles/pdf.less",
+        "website": "./styles/website.less",
         "ebook": "./styles/ebook.less"
     }
 }

@@ -7,28 +7,26 @@
 
 ## StartUp
 
-* [看法 | 碎片化创业](startup/碎片化创业.md)
-* [创业 | 折腾vs瞎折腾](startup/折腾vs瞎折腾.md)
-* [工具 | 听说你想开始写作？](marketing/听说你想开始写作？.md)
-* [运营 | ofo到底怕不怕偷车？](startup/ofo到底怕不怕偷车？.md)
-* [运营 | ofo到底怕不怕坏车？](startup/ofo到底怕不怕坏车？.md)
+* [草稿 \| 碎片化创业](startup/碎片化创业.md)
+* [草稿 \| 折腾vs瞎折腾](startup/折腾vs瞎折腾.md)
+* [草稿 \| 听说你想开始写作？](marketing/听说你想开始写作？.md)
+* [草稿 \| ofo到底怕不怕偷车？](startup/ofo到底怕不怕偷车？.md)
+* [草稿 ofo到底怕不怕坏车？](startup/ofo到底怕不怕坏车？.md)
 
 ## Design
 
-* [ofo logo分析](design/ofo-logo分析.md)
+* [草稿ofo logo分析](design/ofo-logo分析.md)
 
 ## Marketing
 
-* [干货 | 听说你想开个公众号？](marketing/听说你想开个公众号？.md)
-* [工具 | 听说你想开始写作？](marketing/听说你想开始写作？.md)
+* [草稿 \| 听说你想开个公众号？](marketing/听说你想开个公众号？.md)
+* [草稿 \| 听说你想开始写作？](marketing/听说你想开始写作？.md)
 
 ## Development
 
 ## Innovation
 
-* [原创 | 技术vs市场，摩拜大战ofo](innovation/技术vs市场，摩拜大战ofo.md)
+* [草稿 \| 技术vs市场，摩拜大战ofo](innovation/技术vs市场，摩拜大战ofo.md)
 
 ## Management
-
-* [干货 | 创业公司的人员配比](management/创业公司人员配置.md)
 

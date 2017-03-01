@@ -6,7 +6,7 @@ This file file serves as your book's preface, a great place to describe your boo
 
 ## 投稿须知
 1. 所有文章请务必使用[MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)编写
-1. 这里有MarkDown中文版[CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)。
+1. 这里有MarkDown中文版[CheatSheet](http://www.jianshu.com/p/q81RER)。
 1. 请将文章分类至相对应的文件夹中。
 
 

@@ -26,7 +26,7 @@
 
 ## Innovation
 
-* [草稿 \| 技术vs市场，摩拜大战ofo](innovation/技术vs市场，摩拜大战ofo.md)
+* [技术vs市场，摩拜大战ofo](innovation/技术vs市场，摩拜大战ofo.md)
 
 ## Management
 

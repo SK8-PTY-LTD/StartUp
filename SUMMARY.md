@@ -24,6 +24,8 @@
 
 ## Development
 
+* [Updraft Plus vs BackupWordPress](development/updraft-plus-vs-backupwordpress.md)
+
 ## Innovation
 
 * [技术vs市场，摩拜大战ofo](innovation/技术vs市场，摩拜大战ofo.md)

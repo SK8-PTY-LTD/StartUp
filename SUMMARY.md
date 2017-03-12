@@ -24,7 +24,7 @@
 
 ## Development
 
-* [Updraft Plus vs BackupWordPress](development/updraft-plus-vs-backupwordpress.md)
+* [Draft \| Updraft Plus vs BackupWordPress](development/updraft-plus-vs-backupwordpress.md)
 
 ## Innovation
 

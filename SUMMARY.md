@@ -26,7 +26,7 @@
 
 * [Draft \| Updraft Plus vs BackupWordPress](development/updraft-plus-vs-backupwordpress.md)
 * [WordPress Deployment](development/wordpress-deployment.md)
-* 10分钟教你做一个网站
+* [10分钟教你做一个网站](development/10fen-zhong-jiao-ni-zuo-yi-ge-wang-zhan.md)
 
 ## Innovation
 

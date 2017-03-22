@@ -29,6 +29,7 @@
 * [WordPress Deployment](development/wordpress-deployment.md)
 * [10分钟教你做一个网站](development/10fen-zhong-jiao-ni-zuo-yi-ge-wang-zhan.md)
 * [优质程序员10大特征](development/you-zhi-cheng-xu-yuan-10-da-te-zheng.md)
+* [开发个网站到底多少钱？](development/kai-fa-ge-wang-zhan-dao-di-duo-shao-qian-ff1f.md)
 
 ## Innovation
 

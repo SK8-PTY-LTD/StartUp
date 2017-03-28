@@ -5,7 +5,6 @@
 	1. Who're in charge of those shops?
 1. What does the current system look like?
 1. What's your current role? What's taking up most of your time?
-1. What is your strength over your competitor? So we can amplify using IT. 
 
 # Questions on Future System
 

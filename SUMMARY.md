@@ -22,7 +22,7 @@
 
 * [草稿 \| 听说你想开个公众号？](marketing/听说你想开个公众号？.md)
 * [草稿 \| 听说你想开始写作？](marketing/听说你想开始写作？.md)
-* [域名含义](marketing/yu-ming-han-yi.md)
+* [草包 \| 听说你想买一个域名？](marketing/yu-ming-han-yi.md)
 
 ## Development
 

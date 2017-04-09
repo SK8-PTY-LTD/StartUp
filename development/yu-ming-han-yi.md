@@ -79,13 +79,13 @@
 
 现在你已经有自己域名的想法，就需要确定这个域名没有被别人注册过。http://iwantmyname.com 是Jack使用的唯一域名**域名搜索**工具，输入关键词，就能看到这个域名的注册状况。**但是**，iwantmyname收费为美金，而且价格也贵，不推荐在其购买。
 
-![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain7.png)
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain7.jpeg)
 
 ## 域名注册
 
 找好了满意的域名，一定要赶在别人之前抢先**注册**！Jack推荐上**godaddy**，或者土澳本地的**CrazyDomains**上购买。或者可以直接联系**SK8科技**， 我们可以为你全程完成注册流程。
 
-![](/assets/SK8 logo Intro v2.0.gif)
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/SK8 logo Intro v2.0.gif)
 
 恭喜！现在你就可以把你独一无二的域名彰显在名片，T-shirt，以及所有的社交网站上了！
 

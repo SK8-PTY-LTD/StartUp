@@ -7,8 +7,6 @@
 域名对于**初创公司**尤其重要。Jack强烈建议先**购买域名**，然后再注册**公司名**。原因很简单，初创公司的品牌效应低，一个对路的域名是最基础的**品牌奠基石**，为第一批客户留下可信的印象。
 
 ![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain1.png)
-对比一下下面2个域名，哪个搜索结果**可信度更高**呢？
-![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain2.png)
 
 对于**企业**，问题的答案显而易见。第一印象后，潜在客户经常会去搜索你的公司名字，根据搜索结果来判断可信度。一个靠谱**域名**，可以为你的企业大大加分。
 
@@ -20,7 +18,7 @@
 
 作为收信人，你会对哪位影像深刻？
 
-[图]
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain6.png)
 
 # 那么，不同域名又代表了什么？
 
@@ -81,7 +79,7 @@
 
 现在你已经有自己域名的想法，就需要确定这个域名没有被别人注册过。http://iwantmyname.com 是Jack使用的唯一域名**域名搜索**工具，输入关键词，就能看到这个域名的注册状况。**但是**，iwantmyname收费为美金，而且价格也贵，不推荐在其购买。
 
-[图]
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain7.png)
 
 ## 域名注册
 

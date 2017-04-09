@@ -6,9 +6,9 @@
 
 域名对于**初创公司**尤其重要。Jack强烈建议先**购买域名**，然后再注册**公司名**。原因很简单，初创公司的品牌效应低，一个对路的域名是最基础的**品牌奠基石**，为第一批客户留下可信的印象。
 
-![](/assets/domain1.png)
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain1.png)
 对比一下下面2个域名，哪个搜索结果**可信度更高**呢？
-![](/assets/domain2.png)
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain2.png)
 
 对于**企业**，问题的答案显而易见。第一印象后，潜在客户经常会去搜索你的公司名字，根据搜索结果来判断可信度。一个靠谱**域名**，可以为你的企业大大加分。
 

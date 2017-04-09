@@ -24,7 +24,7 @@
 
 最常见的域名就是**.com**。.com 全称为company，是企业代表域名。作为互联网上最古老的域名之一，要找到有意义的并且没人购买的.com域名已经几乎不可能。拥有一个.com域名基本就是直接在告诉观众，“老子历史悠久，老子财力牛逼，高价买到自己的.com”。
 
-![](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
+![](https://media.giphy.com/media/rFPH6jKnrAKU8/giphy.gif)
 
 .com买不到，其他各类域名应运而生。拥有一个和品牌形象吻合的域名直接就是在告诉世人品牌的特征：
 

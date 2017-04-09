@@ -38,5 +38,6 @@
 
 ## Management
 
-* [在为止的世界中尽力而为](management/uncertainty.md)
+* [草稿 \| 在为止的世界中尽力而为](management/uncertainty.md)
+* [talents](management/talents.md)
 

@@ -39,5 +39,5 @@
 ## Management
 
 * [草稿 \| 在为止的世界中尽力而为](management/uncertainty.md)
-* [talents](management/talents.md)
+* [草稿 \| 人才为何留在你这里](management/talents.md)
 

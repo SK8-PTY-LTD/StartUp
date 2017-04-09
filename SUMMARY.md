@@ -20,7 +20,7 @@
 
 ## Marketing
 
-* [草稿 \| 听说你想开个公众号？](marketing/听说你想开个公众号？.md)
+* [听说你想开个公众号？](marketing/听说你想开个公众号？.md)
 * [草稿 \| 听说你想开始写作？](marketing/听说你想开始写作？.md)
 
 ## Development

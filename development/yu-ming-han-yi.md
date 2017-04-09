@@ -85,7 +85,7 @@
 
 ## 域名注册
 
-找好了满意的域名，一定要赶在别人之前抢先**注册**！Jack推荐上**godaddy**，或者土澳本地的**CrazyDomains**上购买。或者可以直接联系**SK8科技**， 我们可以为你全程完成注册流程。
+找好了满意的域名，一定要赶在别人之前抢先**注册**！Jack推荐上D**GoDaddy**，或者土澳本地的**CrazyDomains**上购买。或者可以直接联系**SK8科技**， 我们可以为你全程完成注册流程。
 
 ![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/sk8tech.gif)
 

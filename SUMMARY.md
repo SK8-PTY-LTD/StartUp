@@ -4,12 +4,12 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
+* 在未知的世界中尽力而为
 
 ## StartUp
 
 * [草稿 \| 碎片化创业](startup/碎片化创业.md)
 * [草稿 \| 折腾vs瞎折腾](startup/折腾vs瞎折腾.md)
-* [草稿 \| 听说你想开始写作？](marketing/听说你想开始写作？.md)
 * [草稿 \| ofo到底怕不怕偷车？](startup/ofo到底怕不怕偷车？.md)
 * [草稿 ofo到底怕不怕坏车？](startup/ofo到底怕不怕坏车？.md)
 
@@ -37,4 +37,6 @@
 * [技术vs市场，摩拜大战ofo](innovation/技术vs市场，摩拜大战ofo.md)
 
 ## Management
+
+* [在为止的世界中尽力而为](management/uncertainty.md)
 

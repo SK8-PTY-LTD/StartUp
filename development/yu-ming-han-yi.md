@@ -78,7 +78,7 @@
 ## 域名搜索
 
 现在你已经有自己域名的想法，就需要确定这个域名没有被别人注册过。http://iwantmyname.com 是Jack使用的唯一域名**域名搜索**工具，输入关键词，就能看到这个域名的注册状况。**但是**，iwantmyname收费为美金，而且价格也贵，不推荐在其购买。
-![](/assets/domain7.jpeg)
+
 ![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain7.jpeg)
 
 ## 域名注册

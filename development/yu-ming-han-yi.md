@@ -85,7 +85,7 @@
 
 找好了满意的域名，一定要赶在别人之前抢先**注册**！Jack推荐上**godaddy**，或者土澳本地的**CrazyDomains**上购买。或者可以直接联系**SK8科技**， 我们可以为你全程完成注册流程。
 
-![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/sk8tech.gif)
+![](/assets/sk8tech.gif)
 
 恭喜！现在你就可以把你独一无二的域名彰显在名片，T-shirt，以及所有的社交网站上了！
 

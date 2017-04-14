@@ -40,5 +40,5 @@
 
 * [草稿 \| 在未知的世界中尽力而为](management/uncertainty.md)
 * [草稿 \| 人才为何留在你这里](management/talents.md)
-* 创业，你并不需要CTO
+* [创业，你并不需要CTO](management/chuang-ye-ff0c-ni-bing-bu-xu-yao-cto.md)
 

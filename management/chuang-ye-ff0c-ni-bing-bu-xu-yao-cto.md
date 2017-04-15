@@ -36,6 +36,8 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 两个字：资源！创意无限，资源有限。首先，创业资金有限，分分银子要花在刀刃上。雇佣CTO的天价，转投在推广上回报要高太多。其次，CTO只有在有技术团队的时候才能发挥其价值，不然全职在那逼逼，却不写码，谁吃得消？
 
+![](https://media.giphy.com/media/lqv0eRP0AbOW4/giphy.gif)
+
 经验来说，一周大约8小时做CTO，32时间该做码农。这样**文武双全**的人，还要衷心跟随，才哪里去找？
 
 ![](https://media.giphy.com/media/lqv0eRP0AbOW4/giphy.gif)

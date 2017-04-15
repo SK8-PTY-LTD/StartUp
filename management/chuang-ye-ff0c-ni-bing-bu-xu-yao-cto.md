@@ -20,8 +20,6 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 ![](https://media.giphy.com/media/xzr5ZcFriO2PK/giphy.gif)
 
-![](https://media.giphy.com/media/wbSKCn9aeji3S/giphy.gif)
-
 # 创业的冲动和理性
 
 创业就是靠冲动！创始人必须有独一无二的想法；有舍我其谁的勇气；有破釜成舟的闯劲。不然凭什么成功？活着，就爱折腾！

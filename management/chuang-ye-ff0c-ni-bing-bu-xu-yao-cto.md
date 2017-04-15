@@ -64,3 +64,4 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 赶快联系我们，秀出你的创意！
 
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/sk8tech.gif)

@@ -66,6 +66,4 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 所以每当有人问起，我会这么回答，"十分感激你的信任，但是我不觉得你需要一个CTO。反之，我愿意作为**技术合伙人**入股，保证与你目标行动一致。我并无三头六臂，但是我有最靠谱的团队。我愿为你带领团队，全心助力创业！"
 
-![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/sk8tech.gif)
-
 如果你有想法，爱折腾，赶快联系我们，秀出你的创意！

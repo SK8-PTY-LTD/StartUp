@@ -6,7 +6,7 @@
 
 # CTO是谁？
 
-CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO是整个公司技术最牛逼的码农。毕竟，没两把刷子，何以领英群雄？Surprise！其实，很多CTO并不投身于一线写码，甚至连一个简单的"居中"样式都码不出。说出来简直不可思议。
+CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO是整个公司技术最牛逼的码农。毕竟，没两把刷子，何以引领群雄？Surprise！其实，很多CTO并不投身于一线写码，甚至连一个简单的"居中"样式都码不出。说出来简直不可思议。
 
 ![](https://media.giphy.com/media/xUPGcwDf2lneEamxHy/giphy.gif)
 

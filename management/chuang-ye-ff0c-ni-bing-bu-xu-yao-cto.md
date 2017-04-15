@@ -32,7 +32,7 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 这种情况下，一个专业的意见，一个明确的里程，一个靠谱的执行，比什么都来的快准狠。这才是CTO的价值所在：在创始人天花乱坠时，理清**需求**，认准**方案**，**领导**开发。
 
-![](https://media.giphy.com/media/xzr5ZcFriO2PK/giphy.gif)
+![](https://media.giphy.com/media/wbSKCn9aeji3S/giphy.gif)
 
 # CTO那么牛逼，为什么不需要？
 

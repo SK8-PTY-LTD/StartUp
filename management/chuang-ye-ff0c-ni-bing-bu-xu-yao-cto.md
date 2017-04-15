@@ -8,7 +8,7 @@
 
 CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO是整个公司技术最牛逼的码农。毕竟，没两把刷子，何以引领群雄？Surprise！其实，很多CTO并不投身于一线写码，甚至连一个简单的"居中"样式都码不出。说出来简直不可思议。
 
-![](https://media.giphy.com/media/xUPGcwDf2lneEamxHy/giphy.gif)
+![](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
 
 # 不写代码，要CTO啥用？
 
@@ -20,7 +20,7 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 这看似官僚的工作，却能关乎一个创业公司的生死。作为创业者，比起一个"我能给你码出来"的人，你更需要一个质问"**为什么码**这样东西"的CTO。创新要冲动，执行得理性。
 
-![](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
+![](https://media.giphy.com/media/xzr5ZcFriO2PK/giphy.gif)
 
 # 创业的冲动和理性
 

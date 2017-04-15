@@ -35,6 +35,7 @@
 ## Innovation
 
 * [技术vs市场，摩拜大战ofo](innovation/技术vs市场，摩拜大战ofo.md)
+* [你不知道的谷歌1.0](innovation/ni-bu-zhi-dao-de-gu-ge-1-0.md)
 
 ## Management
 

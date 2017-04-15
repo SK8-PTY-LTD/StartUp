@@ -20,7 +20,7 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 这看似官僚的工作，却能关乎一个创业公司的生死。作为创业者，比起一个"我能给你码出来"的人，你更需要一个质问"**为什么码**这样东西"的CTO。创新要冲动，执行得理性。
 
-![](https://media.giphy.com/media/xzr5ZcFriO2PK/giphy.gif)
+![](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
 
 # 创业的冲动和理性
 
@@ -38,7 +38,7 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 两个字：资源！创意无限，资源有限。首先，创业资金有限，分分银子要花在刀刃上。雇佣CTO的天价，转投在推广上回报要高太多太多。其次，CTO只有在有技术团队的时候才能发挥其价值，不然全职在那逼逼，却不写码，谁吃得消？
 
-![](https://media.giphy.com/media/lqv0eRP0AbOW4/giphy.gif)
+![](https://media.giphy.com/media/YJjvTqoRFgZaM/giphy.gif)
 
 经验来说，一个全职技术负责人，一周大约8小时做CTO，32时间该做码农。这样**文武双全**的人，还要忠心跟随，才哪里去找？
 

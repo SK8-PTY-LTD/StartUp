@@ -38,6 +38,8 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 经验来说，一周大约8小时做CTO，32时间该做码农。这样**文武双全**的人，还要衷心跟随，才哪里去找？
 
+![](https://media.giphy.com/media/BoOn12BXBt5ja/giphy.gif)
+
 # 技术合伙人
 
 回到最初的问题，"愿否加入我们创业团队，出任CTO？"。

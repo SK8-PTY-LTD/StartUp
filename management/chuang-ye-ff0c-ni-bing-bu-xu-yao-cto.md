@@ -6,6 +6,8 @@ CTO是谁？他能干嘛？为啥不用？应该用谁？随着我的脚步，�
 
 CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO是整个公司技术最牛逼的码农。毕竟，没两把刷子，何以领英群雄？Surprise！其实，很多CTO并不投身于一线写码，甚至连一个简单的"居中"样式都码不出。说出来简直不可思议。
 
+![](https://media.giphy.com/media/xzr5ZcFriO2PK/giphy.gif)
+
 # 不写代码，要CTO啥用？
 
 好问题！我以为，小企业CTO的职责包括以下三方面：

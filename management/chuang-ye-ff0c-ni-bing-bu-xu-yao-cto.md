@@ -8,7 +8,7 @@ published: true
 
 经常被问到，愿否加入某某创业团队，出任CTO？心存感激之余，我都会回答，"十分感激你的信任，但是我不觉得你需要一个CTO"。CTO是谁？他能干嘛？为啥不用？应该用谁？随着我的脚步，我们来一探究竟！
 
-![](https://media.giphy.com/media/xT8qBmCnJFN2DsJdug/giphy.gif)
+![](https://media.giphy.com/media/xT8qBmCnJFN2DsJdug/giphy.gif) 
 
 # CTO是谁？
 

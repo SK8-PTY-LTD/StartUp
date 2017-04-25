@@ -1,13 +1,9 @@
 ---
-ID: 4242
-post_title: 创业，你并不需要CTO
-author: hi@sk8.tech
-post_date: 2017-04-25 21:23:05
-post_excerpt: ""
+post_title: '创业，你并不需要CTO'
 layout: post
-permalink: 'https://sk8.tech/%e5%88%9b%e4%b8%9a%ef%bc%8c%e4%bd%a0%e5%b9%b6%e4%b8%8d%e9%9c%80%e8%a6%81cto/'
 published: true
 ---
+
 > 我深信: 创业，你并不需要CTO！CTO是谁？他能干嘛？为啥不用？应该用谁？随着我的脚步，我们来一探究竟！
 
 经常被问到，愿否加入某某创业团队，出任CTO？心存感激之余，我都会回答，"十分感激你的信任，但是我不觉得你需要一个CTO"。CTO是谁？他能干嘛？为啥不用？应该用谁？随着我的脚步，我们来一探究竟！
@@ -70,7 +66,7 @@ CTO，全名Chief Technology Officer，也就是技术总监。有人说，CTO�
 
 动用**带领执行**思维，我成立了"助力创业"为主旨的技术公司：SK8科技。
 
-![](https://raw.githubusercontent.com/jacktator/<a href="https://sk8.tech/services/startup-consulting/" title="StartUp" target="_blank">StartUp</a>_Book/master/assets/sk8tech.gif)
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/sk8tech.gif)
 
 与一般外包公司不同，我们更希望我们助力的创业公司可以与我们一起成长,健步发展。
 

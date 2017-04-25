@@ -1,13 +1,9 @@
 ---
-ID: 4238
-post_title: 10个你没听说过的域名
-author: hi@sk8.tech
-post_date: 2017-04-25 21:22:59
-post_excerpt: ""
+post_title: '10个你没听说过的域名'
 layout: post
-permalink: 'https://sk8.tech/10%e4%b8%aa%e4%bd%a0%e6%b2%a1%e5%90%ac%e8%af%b4%e8%bf%87%e7%9a%84%e5%9f%9f%e5%90%8d/'
 published: true
 ---
+
 无论是开发一个企业官网还是App，开始前**SK8科技**都会问客户一个问题："你的域名注册好了吗？"为什么我需要一个域名？不同域名又代表了什么？我该如何选择？本文中，Jack将手把手教你选出自己的域名。文末有**干货**噢~
 
 与房产产权类似，域名购买指的是一个租用期限。只要该域名没有被别人注册，你可以自由购买该域名使用的长度，1年，5年，100年，等等。事实上，网络上有个职业就是**域名经纪人**：想象一下华尔街上的股票经纪人，通过低买高卖股票赚钱，把华尔街换为互联网，把股票换为域名，基本就是该职业的定义。
@@ -91,12 +87,13 @@ published: true
 
 现在你已经有自己域名的想法，就需要确定这个域名没有被别人注册过。http://iwantmyname.com 是Jack使用的唯一域名**域名搜索**工具，输入关键词，就能看到这个域名的注册状况。**但是**，iwantmyname收费为美金，而且价格也贵，不推荐在其购买。
 
-![](https://raw.githubusercontent.com/jacktator/<a href="https://sk8.tech/services/startup-consulting/" title="StartUp" target="_blank">StartUp</a>_Book/master/assets/domain7.jpeg)
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/domain7.jpeg)
 
 ## 域名注册
 
 找好了满意的域名，一定要赶在别人之前抢先**注册**！Jack推荐上D**GoDaddy**，或者土澳本地的**CrazyDomains**上购买。或者可以直接联系**SK8科技**， 我们可以为你全程完成注册流程。
 
-![](https://raw.githubusercontent.com/jacktator/<a href="https://sk8.tech/services/startup-consulting/" title="StartUp" target="_blank">StartUp</a>_Book/master/assets/sk8tech.gif)
+![](https://raw.githubusercontent.com/jacktator/StartUp_Book/master/assets/sk8tech.gif)
 
 恭喜！现在你就可以把你独一无二的域名彰显在名片，T-shirt，以及所有的社交网站上了！
+

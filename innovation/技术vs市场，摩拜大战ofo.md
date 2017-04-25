@@ -1,13 +1,9 @@
 ---
-ID: 4240
-post_title: 技术vs市场，摩拜大战ofo
-author: hi@sk8.tech
-post_date: 2017-04-25 21:23:02
-post_excerpt: ""
+post_title: '技术vs市场，摩拜大战ofo'
 layout: post
-permalink: 'https://sk8.tech/%e6%8a%80%e6%9c%afvs%e5%b8%82%e5%9c%ba%ef%bc%8c%e6%91%a9%e6%8b%9c%e5%a4%a7%e6%88%98ofo/'
 published: true
 ---
+
 > 科技的目的是为了增加客户体验。无论多少黑科技，只要体验好，价格合适，用户就更有使用倾向。
 
 17年初，创投圈中最热的话题无疑是共享单车了。短短一年时间，摩拜和ofo脱颖而出成为市场上数一数二的玩家。

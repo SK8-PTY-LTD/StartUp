@@ -6,7 +6,7 @@
 
 前期的基础是很重要的，基础扎实可以减少在工作中出现问题后research的时间，提高工作效率。而HTML 5, CSS 3是基础中的基础，了解如何使用HTML插入图片，表格，表单等，且了解基本CSS中根据class和id基本运用，了解responsive page如何实现，之后便可以开始JS的基础学习。以上基础推荐使用W3C网站:[https://www.w3schools.com。](https://www.w3schools.com。)
 
-![](assets/W3C_school.png)
+![](/assets/W3C_school.png)
 
 结合网站提供的在线练习进一步巩固，同时W3C提供了Bootstrap和JQuery的基础教程，了解基本的库的使用。
 
@@ -22,11 +22,11 @@
 
 建议在做个人网站的时候养成加注释划分section的习惯，方便快速查找和修改。
 
-![](assets/HTML_CODE.png)
+![](/assets/HTML_CODE.png)
 
 学习两周后即可做出一个简单的个人网站。
 
-![](assets/HTML_Webview.png)
+![](/assets/HTML_Webview.png)
 
 ##### 学习JS框架
 

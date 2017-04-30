@@ -18,6 +18,7 @@
 * [草稿ofo logo分析](design/ofo-logo分析.md)
 * [6个你没见过的艺维码](design/6ge-ni-mei-jian-guo-de-er-wei-ma.md)
 * [Draft \| User Aquisition](design/user-aquisition.md)
+* [why website](design/why-website.md)
 
 ## Marketing
 

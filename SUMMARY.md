@@ -27,7 +27,6 @@
 ## Development
 
 * [10个你没听说过的域名](development/yu-ming-han-yi.md)
-  * Draft \| Web Speed
 * [Draft \| Updraft Plus vs BackupWordPress](development/updraft-plus-vs-backupwordpress.md)
 * [WordPress Deployment](development/wordpress-deployment.md)
 * [10分钟教你做一个网站](development/10fen-zhong-jiao-ni-zuo-yi-ge-wang-zhan.md)

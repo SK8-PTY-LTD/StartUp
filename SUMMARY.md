@@ -19,7 +19,7 @@
 * [6个你没见过的艺维码](design/6ge-ni-mei-jian-guo-de-er-wei-ma.md)
 * [Draft \| Web Design](design/web-design.md)
 * [Draft \| why website](design/why-website.md)
-* [User Aquisition](design/user-aquisition.md)
+* [Draft \| User Aquisition](design/user-aquisition.md)
 * [Draft \| Good vs Bad design](design/draft-good-vs-bad-design.md)
 
 ## Marketing
